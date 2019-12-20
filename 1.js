@@ -19,4 +19,5 @@ console.log(2 && 1 && null && 0 && undefined );
 // "ёжик" > "яблоко"
 let a = "ёжик";
 let b = "яяяя";
+console.log(a);
 console.log(a > b);
